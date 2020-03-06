@@ -1,0 +1,33 @@
+@charset utf-8;
+
+body {
+	text-align:justify;
+	background-color:#cecece;
+	
+}
+
+header#cabecalho {
+	border-bottom:1px solid black;
+	
+}
+
+div#interface {
+	position:absolute;
+	margin: -10px 50px 10px 50px;
+	background-color:white;
+	padding:10px;
+}
+
+div#texto-principal {
+	margin:10px auto 10px auto;
+	
+}
+
+section#conteudo-principal {
+	position:relative;
+	display:block;
+	float:right;
+	width:900px;
+	
+}
+
