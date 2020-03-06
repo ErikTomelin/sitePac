@@ -4,9 +4,10 @@ site que teremos que terminar de desenvolver até o final do semestre
 Ideias até agora (05/03/2020)
 
   VANT
+  
   1 - Onde é aplicado?
     * agricultura
-    *fotos panorâmicas
+    * fotos panorâmicas
     * tele entrega
     * uso pessoal
     
