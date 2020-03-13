@@ -1,0 +1,22 @@
+<DOCTYPE html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" type="text/css" href="nomedaora.css" media="screen" />
+	</head>
+	<body>
+		<div class="contentetv">
+			<ul>
+				<li><a href= "cores.html">Cores</a></li>
+				<li><a href= "plano.html">Plano de Fundo</a></li>
+				<li><a href= "texto.html">Texto</a></li>
+				<li><a href= "fonte.html">Fonte</a></li>
+				<li><a>					   Borda</a></li>
+				<li><a href= "margin.html">Margin e Padding</a></li>
+				<li><a href= "tabela.html">Tabela</a></li>
+			</ul>
+		</div>
+		<div class="conteudo">
+			<h1> Fonte </h1>
+		</div>
+	</body>
+</html>
